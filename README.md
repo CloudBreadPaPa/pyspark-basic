@@ -23,5 +23,9 @@ TODO: Setup python 3.8+ environment and run code
 ### Databricks MLflow - Project
 - review [Azure Databricks MLflow Project document](https://www.sqler.com/board_MachineLearning_AI_tip_lecture/1102956)
 
+### Databricks MLflow - Model Registry
+- review [Azure Databricks MLflow Model registry](https://www.sqler.com/board_MachineLearning_AI_tip_lecture/1103059)
+- run `MLflow Model Registry example` notebook file in Databricks notebook
+
 # Build and Test
 - Compatible with Python 3.8+
