@@ -14,6 +14,7 @@ TODO: Setup python 3.8+ environment and run code
 
 ### Parquet metdata review
 - run `parquet-metadata.ipynb` notebook file
+- review [Parquet meta data post](https://www.sqler.com/board_CSharp/1104636)
 
 ### PySpark distributed processing - machine learning, MLlib
 - review [PySpark distributed processing - machine learning, MLlib](https://www.sqler.com/board_MachineLearning_AI_tip_lecture/1102788)
