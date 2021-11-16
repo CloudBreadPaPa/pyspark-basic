@@ -12,6 +12,9 @@ TODO: Setup python 3.8+ environment and run code
 - review [Apache Arrow - pyarrow post](https://www.sqler.com/board_CSharp/1102709)
 - run `pyarrow.ipynb` notebook file
 
+### Parquet metdata review
+- run `parquet-metadata.ipynb` notebook file
+
 ### PySpark distributed processing - machine learning, MLlib
 - review [PySpark distributed processing - machine learning, MLlib](https://www.sqler.com/board_MachineLearning_AI_tip_lecture/1102788)
 - run `pyspark-distributed-processing.ipynb` notebook file
@@ -30,7 +33,6 @@ TODO: Setup python 3.8+ environment and run code
 ### Databricks MLflow - Model Deployment
 - review [Azure Databricks MLflow Model deployment](https://www.sqler.com/board_MachineLearning_AI_tip_lecture/1103128)
 - run `MLflow-Model-deployment.ipynb` notebook file in Databricks notebook
-
 
 # Build and Test
 - Compatible with Python 3.8+
